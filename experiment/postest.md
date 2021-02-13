@@ -1,9 +1,9 @@
 ### <b>Post-Test</b>
-1.Which of the following functions will not result in an error when no arguments are passed to it? <br>
+<dd>1.Which of the following functions will not result in an error when no arguments are passed to it? <br>
 a.any()<br>
 <b>b.float()</b><br>
 c.max()<br>
-d.divmod()<br><br>
+d.divmod()<br></dd><br>
 <dd>2.What will be the output of the following code?<br>
 Print(len(['hii',0, 2, 4]))<br>
 a.3<br>

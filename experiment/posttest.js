@@ -90,7 +90,7 @@
   
     const myQuestions = [
       {
-        question: "1.Which of the following functions will not result in an error when no arguments are passed to it? ",  ///// Write the question inside double quotes
+        question: "Which of the following functions will not result in an error when no arguments are passed to it? ",  ///// Write the question inside double quotes
         answers: {
           a: "any()",                  ///// Write the option 1 inside double quotes
           b: "float()",
@@ -101,7 +101,7 @@
       },
   
       {
-       question: "2.What will be the output of the following code?<br>Print(len(['hii',0, 2, 4]))",  ///// Write the question inside double quotes
+       question: "What will be the output of the following code?<br>Print(len(['hii',0, 2, 4]))",  ///// Write the question inside double quotes
         answers: {
           a: "3",                  ///// Write the option 1 inside double quotes
           b: "6",
@@ -111,7 +111,7 @@
         correctAnswer: "c"                ///// Write the correct option inside double quotes
       },
       {
-        question: "3.What will be displayed by print(ord(‘a’) – ord(‘b’)) ?",  ///// Write the question inside double quotes
+        question: "What will be displayed by print(ord(‘a’) – ord(‘b’)) ?",  ///// Write the question inside double quotes
          answers: {
            a: "1",                  ///// Write the option 1 inside double quotes
            b: "-1",                  ///// Write the option 2 inside double quotes
@@ -121,7 +121,7 @@
          correctAnswer: "b"                ///// Write the correct option inside double quotes
        },
        {
-        question: "4.What will be displayed by 'helloworld'.replace('l', 'e')?",  ///// Write the question inside double quotes
+        question: "What will be displayed by 'helloworld'.replace('l', 'e')?",  ///// Write the question inside double quotes
          answers: {
            a: "heelowored",                  ///// Write the option 1 inside double quotes
            b: "heeeoworld",                  ///// Write the option 2 inside double quotes
@@ -131,7 +131,7 @@
          correctAnswer: "d"                ///// Write the correct option inside double quotes
        },
        {
-        question: "5.What will be displayed by min(max(False,-2,-6), 3,5,6) ?",  ///// Write the question inside double quotes
+        question: "What will be displayed by min(max(False,-2,-6), 3,5,6) ?",  ///// Write the question inside double quotes
          answers: {
            a: "2",                  ///// Write the option 1 inside double quotes
            b: "-3",                  ///// Write the option 2 inside double quotes

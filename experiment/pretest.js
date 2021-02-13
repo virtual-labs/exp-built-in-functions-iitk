@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "1.Which of the following functions is a built-in function in python?",  ///// Write the question inside double quotes
+      question: ".Which of the following functions is a built-in function in python?",  ///// Write the question inside double quotes
       answers: {
         a: "seed()",                  ///// Write the option 1 inside double quotes
         b: "sqrt()",                 ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-     question: "2.What is the output of the expression?<br>round(2.578)",  ///// Write the question inside double quotes
+     question: "What is the output of the expression?<br>round(2.578)",  ///// Write the question inside double quotes
       answers: {
         a: "2.6",                  ///// Write the option 1 inside double quotes
         b: "2.5",                  ///// Write the option 2 inside double quotes
@@ -111,7 +111,7 @@
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
     {
-      question: "3.What is the output of the following function ?<br>hex(10)",  ///// Write the question inside double quotes
+      question: "What is the output of the following function ?<br>hex(10)",  ///// Write the question inside double quotes
        answers: {
          a: "0xA",                  ///// Write the option 1 inside double quotes
          b: "0xa",                  ///// Write the option 2 inside double quotes
@@ -121,7 +121,7 @@
        correctAnswer: "b"                ///// Write the correct option inside double quotes
      },
      {
-      question: "4.What is the output of the function shown below?<br>import math<br>print(math.floor(5.5))",  ///// Write the question inside double quotes
+      question: "What is the output of the function shown below?<br>import math<br>print(math.floor(5.5))",  ///// Write the question inside double quotes
        answers: {
          a: "5.5",                  ///// Write the option 1 inside double quotes
          b: "6",                  ///// Write the option 2 inside double quotes
@@ -131,7 +131,7 @@
        correctAnswer: "c"                ///// Write the correct option inside double quotes
      },
      {
-      question: "5.What is the output of the function shown below?<br>import math<br>print(abs(math.sqrt(16)))",  ///// Write the question inside double quotes
+      question: "What is the output of the function shown below?<br>import math<br>print(abs(math.sqrt(16)))",  ///// Write the question inside double quotes
        answers: {
          a: "Error",                  ///// Write the option 1 inside double quotes
          b: "-4",                  ///// Write the option 2 inside double quotes

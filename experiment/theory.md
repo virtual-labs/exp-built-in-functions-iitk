@@ -1,4 +1,4 @@
-### Theory
+### <b>Theory</b>
 An executable program in a programming language contains multiple lines. To simplify this code, various functions are used.
 They can be built-in functions or user defined functions.A function is basically a chunk or module of code that takes in some input from the user and may or may not give any output. The function may provide some alterations to the input values.<br><br>
 <b> 'id' function :</b><br>
