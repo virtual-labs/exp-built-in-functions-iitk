@@ -27,9 +27,9 @@ Output<br><br>
 Program<br><br>
 <img src="images/img3.PNG"><br><br>
 Output<br><br>
-float<br>
-str<br>
-int
+<class 'float'><br>
+<class 'str'><br>
+<class 'int'>
 
 
 
