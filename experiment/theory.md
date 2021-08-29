@@ -25,7 +25,7 @@ Output:<br><br>
 <class 'dict'><br><br>
 <br><br>
 Program:<br><br>
-<img src="images/img3.PNG"><br><br>
+<img src="images/img4.PNG"><br><br>
 Output:<br><br>
 <class 'float'><br>
 <class 'str'><br>
