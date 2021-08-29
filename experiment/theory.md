@@ -12,21 +12,21 @@ Program:<br><br>
 Output:<br>
 False<br><br>
 <br>
-<b> 'type' function :</b><br>
+<b> 'Type' function :</b><br>
  This function returns the data type of an object. It returns the following data types :<br>
 i. Integer<br>
 ii. String<br>
 iii. Float<br>
-etc.<br><br>
+type() method returns class type of the argument(object) passed as parameter. type() function is mostly used for debugging purposes.<br><br>
 Syntax : type(object)<br><br>
-Program<br><br>
+Program:<br><br>
 <img src="images/img3.PNG"><br><br>
-Output<br><br>
+Output:<br><br>
 <class 'dict'><br><br>
 <br><br>
-Program<br><br>
+Program:<br><br>
 <img src="images/img3.PNG"><br><br>
-Output<br><br>
+Output:<br><br>
 <class 'float'><br>
 <class 'str'><br>
 <class 'int'>
