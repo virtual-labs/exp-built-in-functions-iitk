@@ -8,7 +8,7 @@ Program:<br>
 Output<br>
 1750812191152<br><br>
 Program:<br><br>
-<img src="images/img1.PNG"><br><br>
+<img src="images/img2.PNG"><br><br>
 Output:<br>
 False<br><br>
 <br>
