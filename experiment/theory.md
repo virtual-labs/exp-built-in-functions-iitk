@@ -3,13 +3,13 @@ They can be built-in functions or user defined functions.A function is basically
 <b> 'id' function :</b><br>
 This function returns the identity of an object. A identity has to be unique and constant for a particular object during the lifetime.<br>
 Syntax : id(object)<br><br>
-Program:<br>
+Program:<br><br>
 <img src="images/img1.PNG"><br><br>
-Output<br>
+Output<br><br>
 1750812191152<br><br>
 Program:<br><br>
 <img src="images/img2.PNG"><br><br>
-Output:<br>
+Output:<br><br>
 False<br><br>
 <br>
 <b> 'Type' function :</b><br>
@@ -23,7 +23,6 @@ Program:<br><br>
 <img src="images/img3.PNG"><br><br>
 Output:<br><br>
 <class 'dict'><br><br>
-<br><br>
 Program:<br><br>
 <img src="images/img4.PNG"><br><br>
 Output:<br><br>
