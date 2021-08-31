@@ -23,9 +23,9 @@
 
 #### 1.1 Focus Area : 
 Sr No. |  Focus Area
-:--|:--|:-:
-1. | Reinforce theoretical concept
-2. | Instrumentation and Practical Skills
+:--|:--|
+1.  Reinforce theoretical concept
+2.  Instrumentation and Practical Skills
 
 #### 1.2 About the Experiment
 
