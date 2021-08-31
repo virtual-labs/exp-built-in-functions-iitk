@@ -28,7 +28,7 @@ Program:<br><br>
 Output:<br><br>
 <class 'float'><br>
 <class 'str'><br>
-<class 'int'>
+<class 'int'><br>
 
 
 
