@@ -6,10 +6,10 @@
 
 </p>
 
-| <b>Discipline      | </b> Computer Science  |
-| :----------------- | :--------------------- |
-| <b> Lab</b>        | Python Programming Lab |
-| <b> Experiment</b> | Functions              |
+<b>Discipline | </b> Computer Science 
+:--|:--|
+<b> Lab</b> | Python Programming Lab
+<b> Experiment</b> | Functions              
 
 <h4> [1.1 Focus Area](#LO)
 <h4> [1.2 About the Experiment](#LO)
