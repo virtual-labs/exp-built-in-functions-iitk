@@ -1,16 +1,46 @@
 [{
-	"question": "1.This is a sample question:",
+	"question": "Which of the following functions will not result in an error when no arguments are passed to it? ",
 	"answers": {
-		"a": "This is a sample answer A",
-		"b": "This is a sample answer B"
+		"a": "any()",
+		"b": "float()",
+		"c": "max()",
+		"d": "divmod()"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "b"
 }, {
-	"question": "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",
+	"question": "What will be the output of the following code?<br>Print(len(['hii',0, 2, 4]))",
 	"answers": {
-		"a": "<img src='images/1b.png'>",
-		"b": "<img src='images/1a.png'>",
-		"c": "<img src='images/1c.PNG'>"
+		"a": "3",
+		"b": "6",
+		"c": "4",
+		"d": "Error"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What will be displayed by print(ord(‘a’) – ord(‘b’)) ?",
+	"answers": {
+		"a": "1",
+		"b": "-1",
+		"c": "2",
+		"d": "0"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What will be displayed by 'helloworld'.replace('l', 'e')?",
+	"answers": {
+		"a": "heelowored",
+		"b": "heeeoworld",
+		"c": "hllloworld",
+		"d": "heeeowored"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What will be displayed by min(max(False,-2,-6), 3,5,6) ?",
+	"answers": {
+		"a": "2",
+		"b": "-3",
+		"c": "False",
+		"d": "-4"
 	},
 	"correctAnswer": "c"
 }]

@@ -6,11 +6,11 @@
 
 </p>
 
+
 | <b>Discipline      | </b> Computer Science  |
 | :----------------- | :--------------------- |
 | <b> Lab</b>        | Python Programming Lab |
 | <b> Experiment</b> | Functions              |
-
 <h4> [1.1 Focus Area](#LO)
 <h4> [1.2 About the Experiment](#LO)
 <h4> [1.3 Learning Objectives ](#LO)
@@ -24,6 +24,7 @@
 #### 1.1 Focus Area : 
 Sr No. |  Focus Area
 :--|:--|
+<<<<<<< HEAD
 1. | Reinforce theoretical concept
 2. | Instrumentation and Practical Skills
 
@@ -36,6 +37,20 @@ Sr No. |  Focus Area
 
 #### 1.3 Learning Objectives and Cognitive Level
 
+=======
+1.  Reinforce theoretical concept
+2.  Instrumentation and Practical Skills
+
+#### 1.2 About the Experiment
+
+<br/>1. To teach the basics of Functions using an interactive simulator.
+<br/>2. The purpose of the Virtual lab is to create interest in students to conduct new experiments in various disciplines.
+<br/>3. With the help of our virtual lab, students get a chance to learn different aspects of Python programming language by getting to understand the concepts of Functions.
+<br/>4. There might be some users who have a problem of understanding the use of Functions with just the theory in hand. With the simulator, it becomes easy to understand.
+
+#### 1.3 Learning Objectives and Cognitive Level
+
+>>>>>>> 17c16f21fc80666f44c432960df8720b1eb595bd
 
 Sr No. |  LO ID |    Learning Objective  | Cognitive Level | Action Verb
 :--|:--|:--|:--|:-:
@@ -52,12 +67,21 @@ Sr No. |  LO ID |    Learning Objective  | Cognitive Level | Action Verb
 <a name="IS"></a>
 
 <h3> 2 Instructional Strategy</h3>
+<<<<<<< HEAD
 
 Method  | Assessment | Instructional Strategy
 :--|:--|:-:
 Summative Assessment | 1·  The main objective to develop this lab is to provide an interactive source of learn-ing for the students. The simulation that we provide fullls our purpose <br>2· The learner will be easily able to understand Python programming language.<br>3·  The user will able to understand the use of Functions.<br>4· With the help of our virtual lab, students get a chance to learn Python program-ming language as they are provided with an interactive simulator. It is benecial in understanding the basics of Functions which simply cannot be understood by self-evaluation. | Problem Based
   
 
+=======
+
+Method  | Assessment | Instructional Strategy
+:--|:--|:-:
+Summative Assessment | 1·  The main objective to develop this lab is to provide an interactive source of learn-ing for the students. The simulation that we provide fullls our purpose <br>2· The learner will be easily able to understand Python programming language.<br>3·  The user will able to understand the use of Functions.<br>4· With the help of our virtual lab, students get a chance to learn Python program-ming language as they are provided with an interactive simulator. It is benecial in understanding the basics of Functions which simply cannot be understood by self-evaluation. | Problem Based
+  
+
+>>>>>>> 17c16f21fc80666f44c432960df8720b1eb595bd
 <br>
  <div align="justify">
   
