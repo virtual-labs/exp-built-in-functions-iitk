@@ -8,7 +8,7 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "What will be the output of the following code?<br>Print(len(['hii',0, 2, 4]))",
+	"question": "What will be the output of the following code?<br>print(len(['hii',0, 2, 4]))",
 	"answers": {
 		"a": "3",
 		"b": "6",
