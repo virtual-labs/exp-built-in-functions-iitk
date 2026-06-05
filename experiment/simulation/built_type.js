@@ -33,32 +33,57 @@ function check(i){
   }
 }
 
+// var i = 0;
+// //onclick event for Start Button
+// btn_2.onclick = function(){
+//   var v = [1,2,3,4];
+//     if(v[i] == 1){
+//       document.getElementById("1").style.color = "red";
+//       document.getElementById("r1").style.display = "block";
+//       i++;
+//     }
+//     else if(v[i] == 2) {
+//       document.getElementById("2").style.color = "red";
+//       document.getElementById("r1").style.display = "block";
+//       //document.getElementById("r2").innerHTML = typeof input_1.value;
+//       check(2);
+//       i++;
+//     }
+//     else if(v[i] == 3){
+//       document.getElementById("3").style.color = "red";
+//       document.getElementById("r3").style.display = "block";
+//       //document.getElementById("r5").innerHTML = typeof input_1.value;
+//       check(3);
+//       i++;
+//     }
+//     else if(v[i] == 4){
+//       alert('Program Completed');
+//     }
+// }
 var i = 0;
-//onclick event for Start Button
-btn_2.onclick = function(){
-  var v = [1,2,3,4];
-    if(v[i] == 1){
-      document.getElementById("1").style.color = "red";
-      document.getElementById("r1").style.display = "block";
-      i++;
+
+btn_2.onclick = function() {
+
+    var v = [1,5,2,3];
+
+    if(i >= v.length){
+        alert("Program Completed");
+        return;
     }
-    else if(v[i] == 2) {
-      document.getElementById("2").style.color = "red";
-      document.getElementById("r1").style.display = "block";
-      //document.getElementById("r2").innerHTML = typeof input_1.value;
-      check(2);
-      i++;
+
+    document.getElementById(v[i]).style.color = "red";
+
+    if(v[i] == 2){
+        document.getElementById("r1").style.display = "block";
+        check(2);
     }
-    else if(v[i] == 3){
-      document.getElementById("3").style.color = "red";
-      document.getElementById("r3").style.display = "block";
-      //document.getElementById("r5").innerHTML = typeof input_1.value;
-      check(3);
-      i++;
+
+    if(v[i] == 3){
+        document.getElementById("r3").style.display = "block";
+        check(3);
     }
-    else if(v[i] == 4){
-      alert('Program Completed');
-    }
+
+    i++;
 }
 
 //onclick event for Reset button
