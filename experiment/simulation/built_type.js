@@ -33,31 +33,66 @@ function check(i){
   }
 }
 
+// var i = 0;
+// //onclick event for Start Button
+// btn_2.onclick = function(){
+//   var v = [1,2,3,4];
+//     if(v[i] == 1){
+//       document.getElementById("1").style.color = "red";
+//       document.getElementById("r1").style.display = "block";
+//       i++;
+//     }
+//     else if(v[i] == 2) {
+//       document.getElementById("2").style.color = "red";
+//       document.getElementById("r1").style.display = "block";
+//       //document.getElementById("r2").innerHTML = typeof input_1.value;
+//       check(2);
+//       i++;
+//     }
+//     else if(v[i] == 3){
+//       document.getElementById("3").style.color = "red";
+//       document.getElementById("r3").style.display = "block";
+//       //document.getElementById("r5").innerHTML = typeof input_1.value;
+//       check(3);
+//       i++;
+//     }
+//     else if(v[i] == 4){
+//       alert('Program Completed');
+//     }
+// }
 var i = 0;
-//onclick event for Start Button
-btn_2.onclick = function(){
-  var v = [1,2,3,4];
-    if(v[i] == 1){
-      document.getElementById("1").style.color = "red";
-      document.getElementById("r1").style.display = "block";
-      i++;
+
+btn_2.onclick = function () {
+
+    var v = [1, 4, 2, 3];
+
+    if (v[i] == 1) {
+        document.getElementById("1").style.color = "red";
+        document.getElementById("r1").style.display = "block";
+        i++;
     }
-    else if(v[i] == 2) {
-      document.getElementById("2").style.color = "red";
-      document.getElementById("r1").style.display = "block";
-      //document.getElementById("r2").innerHTML = typeof input_1.value;
-      check(2);
-      i++;
+
+    else if (v[i] == 4) {
+        document.getElementById("4").style.color = "red";
+        i++;
     }
-    else if(v[i] == 3){
-      document.getElementById("3").style.color = "red";
-      document.getElementById("r3").style.display = "block";
-      //document.getElementById("r5").innerHTML = typeof input_1.value;
-      check(3);
-      i++;
+
+    else if (v[i] == 2) {
+        document.getElementById("2").style.color = "red";
+        document.getElementById("r1").style.display = "block";
+        check(2);
+        i++;
     }
-    else if(v[i] == 4){
-      alert('Program Completed');
+
+    else if (v[i] == 3) {
+        document.getElementById("3").style.color = "red";
+        document.getElementById("r3").style.display = "block";
+        check(3);
+        i++;
+    }
+
+    else if (i >= 4) {
+        alert("Program Completed");
     }
 }
 
