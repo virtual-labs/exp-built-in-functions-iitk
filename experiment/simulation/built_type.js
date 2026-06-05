@@ -62,38 +62,28 @@ function check(i){
 // }
 var i = 0;
 
-btn_2.onclick = function () {
+btn_2.onclick = function() {
 
-    var v = [1, 4, 2, 3];
+    var v = [1,5,2,3];
 
-    if (v[i] == 1) {
-        document.getElementById("1").style.color = "red";
-        document.getElementById("r1").style.display = "block";
-        i++;
+    if(i >= v.length){
+        alert("Program Completed");
+        return;
     }
 
-    else if (v[i] == 4) {
-        document.getElementById("4").style.color = "red";
-        i++;
-    }
+    document.getElementById(v[i]).style.color = "red";
 
-    else if (v[i] == 2) {
-        document.getElementById("2").style.color = "red";
+    if(v[i] == 2){
         document.getElementById("r1").style.display = "block";
         check(2);
-        i++;
     }
 
-    else if (v[i] == 3) {
-        document.getElementById("3").style.color = "red";
+    if(v[i] == 3){
         document.getElementById("r3").style.display = "block";
         check(3);
-        i++;
     }
 
-    else if (i >= 4) {
-        alert("Program Completed");
-    }
+    i++;
 }
 
 //onclick event for Reset button
