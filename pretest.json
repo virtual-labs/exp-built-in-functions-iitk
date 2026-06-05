@@ -1,0 +1,46 @@
+[{
+	"question": ".Which of the following functions is a built-in function in python?",
+	"answers": {
+		"a": "seed()",
+		"b": "sqrt()",
+		"c": "print()",
+		"d": "factorial()"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What is the output of the expression?<br>round(2.578)",
+	"answers": {
+		"a": "2.6",
+		"b": "2.5",
+		"c": "2",
+		"d": "3"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "What is the output of the following function ?<br>hex(10)",
+	"answers": {
+		"a": "0xA",
+		"b": "0xa",
+		"c": "0Xa",
+		"d": "a"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "What is the output of the function shown below?<br>import math<br>print(math.floor(5.5))",
+	"answers": {
+		"a": "5.5",
+		"b": "6",
+		"c": "5",
+		"d": "6.0"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What is the output of the function shown below?<br>import math<br>print(abs(math.sqrt(16)))",
+	"answers": {
+		"a": "Error",
+		"b": "-4",
+		"c": "4.0",
+		"d": "4"
+	},
+	"correctAnswer": "c"
+}]
